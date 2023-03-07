@@ -106,7 +106,7 @@ If you did everything correctly, the bot should be running. Go do `/start` to se
 
 **the easy way of directly deploying on render**
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/oVo-HxBots/Utubeitbot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Blobotmake/Utubeitbot)
 
 #### Koyeb
 <p align="center">
