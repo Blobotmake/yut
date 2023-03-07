@@ -7,15 +7,15 @@ class Config:
 
     SESSION_NAME = ":memory:"
 
-    API_ID = int(os.environ.get("API_ID"))
+    API_ID = int(os.environ.get("API_ID", "9098660"))
 
-    API_HASH = os.environ.get("API_HASH")
+    API_HASH = os.environ.get("API_HASH", "825288066fbe111456c2648b11a7aa3e")
 
     CLIENT_ID = os.environ.get("CLIENT_ID")
 
     CLIENT_SECRET = os.environ.get("CLIENT_SECRET")
 
-    BOT_OWNER = int(os.environ.get("BOT_OWNER"))
+    BOT_OWNER = int(os.environ.get("BOT_OWNER", "1980321098"))
 
     AUTH_USERS_TEXT = os.environ.get("AUTH_USERS", "")
 
@@ -26,7 +26,7 @@ class Config:
     )
 
     VIDEO_DESCRIPTION = (
-        os.environ.get("VIDEO_DESCRIPTION", "").replace("<", "").replace(">", "")
+        os.environ.get("VIDEO_DESCRIPTION", "ok").replace("<", "").replace(">", "")
     )
 
     VIDEO_CATEGORY = (
