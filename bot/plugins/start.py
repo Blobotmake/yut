@@ -23,11 +23,11 @@ async def _start(c: UtubeBot, m: Message):
                       InlineKeyboardButton("How To Use Me🙄", callback_data="help")
                   ],
                   [
-                      InlineKeyboardButton("Project Channel!", url="https://t.me/+NYXVF4Fcr1wxYTZl"),
-                      InlineKeyboardButton("Team Chat", url="https://t.me/+jjR1DrVLrfU0NTdl")
+                      InlineKeyboardButton("ᴘʀᴏᴊᴇᴄᴛ ᴄʜᴀɴɴᴇʟ", url="https://t.me/+NYXVF4Fcr1wxYTZl"),
+                      InlineKeyboardButton("ᴛᴇᴀᴍ ᴄʜᴀᴛ", url="https://t.me/+jjR1DrVLrfU0NTdl")
                   ],
                   [  
-                      InlineKeyboardButton("Buy Me A Tea", url="https://upayme.vercel.app/kkirodewal@ybl")
+                      InlineKeyboardButton("ʏᴏᴜᴛᴜʙᴇ", url="https://youtube.com/@AKD-ANIMES")
                   ]]
         ),
     )
