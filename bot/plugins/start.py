@@ -20,11 +20,11 @@ async def _start(c: UtubeBot, m: Message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup([
                   [
-                      InlineKeyboardButton("How To Use Me🙄", callback_data="/help")
+                      InlineKeyboardButton("How To Use Me🙄", callback_data="help")
                   ],
                   [
-                      InlineKeyboardButton("Project Channel!", url="https://t.me/hxbots"),
-                      InlineKeyboardButton("Support Group", url="https://t.me/HxSupport")
+                      InlineKeyboardButton("Project Channel!", url="https://t.me/+NYXVF4Fcr1wxYTZl"),
+                      InlineKeyboardButton("Team Chat", url="https://t.me/+jjR1DrVLrfU0NTdl")
                   ],
                   [  
                       InlineKeyboardButton("Buy Me A Tea", url="https://upayme.vercel.app/kkirodewal@ybl")
